@@ -17,3 +17,19 @@ Will open a table or series of tables will load showing a ever product for sale 
 
 Option 3 & 4 
 Will return a prompt asking for information to either increase the amount of product in inventory or add a new product all together. Once completed, the database will be updated with an increased number of existing products or new products.
+
+EXAMPLE customer.js
+
+![Example customer.js](https://raw.githubusercontent.com/bghita/amazon-Node.js-MySQL/master/images/1.png)
+
+![Example customer.js](https://github.com/bghita/amazon-Node.js-MySQL/blob/master/images/2.png)
+
+EXAMPLE manager.js
+
+![Example customer.js](https://github.com/bghita/amazon-Node.js-MySQL/blob/master/images/3.png)
+
+![Example customer.js](https://github.com/bghita/amazon-Node.js-MySQL/blob/master/images/4.png)
+
+
+
+
